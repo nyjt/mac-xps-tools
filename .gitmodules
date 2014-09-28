@@ -1,0 +1,3 @@
+[submodule "dsdt-mac-xps"]
+	path = dsdt-mac-xps
+	url = https://github.com/nyjt/dsdt-mac-xps.git
