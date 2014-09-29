@@ -1,3 +1,6 @@
 [submodule "dsdt-mac-xps"]
 	path = dsdt-mac-xps
 	url = https://github.com/nyjt/dsdt-mac-xps.git
+[submodule "OS-X-ACPI-Backlight"]
+	path = OS-X-ACPI-Backlight
+	url = https://github.com/RehabMan/OS-X-ACPI-Backlight
