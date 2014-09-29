@@ -4,3 +4,6 @@
 [submodule "OS-X-ACPI-Backlight"]
 	path = OS-X-ACPI-Backlight
 	url = https://github.com/RehabMan/OS-X-ACPI-Backlight
+[submodule "OS-X-ACPI-Battery-Driver"]
+	path = OS-X-ACPI-Battery-Driver
+	url = https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
